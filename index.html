@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ChartJS</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+
+</head>
+<body>
+
+<div class="container">
+    <div class="row">
+        <div class="col-8 offset-2 text-center">
+            <br><br><br>
+
+            <h2>Boston Crime Data Insight</h2>
+            <div class="text-justify">
+
+                <span>
+                    This insight is acquired using Apache Hive, from the <a
+                        href="https://www.kaggle.com/AnalyzeBoston/crimes-in-boston/">Boston Crime Dataset</a>.
+                    It shows the number of crimes categorically over a month or yearly basis.
+                    The data has been represented in charts using <a href="https://www.chartjs.org/">ChartJS</a> and <a
+                        href="https://getbootstrap.com/">Bootstrap 4</a>. Click below to view the insights.
+                </span>
+
+                <br><br>
+                <a href="offense-yealy-chart.html" class="btn btn-outline-success btn-lg ">Insight on Yearly
+                    Basis</a>
+                <a href="offense-monthly-chart.html" class="btn btn-outline-success btn-lg float-right">Insight on Monthly Basis</a>
+
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<script src="js/jquery-slim.min.js" type="text/javascript"></script>
+<script src="js/proper.min.js" type="text/javascript"></script>
+<script src="js/bootstrap.min.js" type="text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.bundle.js" type="text/javascript"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+
+
+</body>
+</html>

@@ -1,0 +1,742 @@
+Aggravated Assault,NULL,1
+Aggravated Assault,1,534
+Aggravated Assault,2,517
+Aggravated Assault,3,519
+Aggravated Assault,4,579
+Aggravated Assault,5,671
+Aggravated Assault,6,810
+Aggravated Assault,7,956
+Aggravated Assault,8,851
+Aggravated Assault,9,693
+Aggravated Assault,10,565
+Aggravated Assault,11,564
+Aggravated Assault,12,547
+Aircraft,1,5
+Aircraft,2,1
+Aircraft,3,6
+Aircraft,5,3
+Aircraft,6,2
+Aircraft,7,6
+Aircraft,8,5
+Aircraft,10,3
+Aircraft,11,1
+Aircraft,12,4
+Arson,1,7
+Arson,2,2
+Arson,3,11
+Arson,4,6
+Arson,5,5
+Arson,6,15
+Arson,7,7
+Arson,8,12
+Arson,9,10
+Arson,10,5
+Arson,11,8
+Arson,12,6
+Assembly or Gathering Violations,1,67
+Assembly or Gathering Violations,2,76
+Assembly or Gathering Violations,3,64
+Assembly or Gathering Violations,4,91
+Assembly or Gathering Violations,5,47
+Assembly or Gathering Violations,6,58
+Assembly or Gathering Violations,7,70
+Assembly or Gathering Violations,8,56
+Assembly or Gathering Violations,9,150
+Assembly or Gathering Violations,10,133
+Assembly or Gathering Violations,11,93
+Assembly or Gathering Violations,12,50
+Auto Theft,1,339
+Auto Theft,2,259
+Auto Theft,3,257
+Auto Theft,4,316
+Auto Theft,5,401
+Auto Theft,6,527
+Auto Theft,7,614
+Auto Theft,8,591
+Auto Theft,9,466
+Auto Theft,10,378
+Auto Theft,11,349
+Auto Theft,12,354
+Auto Theft Recovery,1,94
+Auto Theft Recovery,2,73
+Auto Theft Recovery,3,90
+Auto Theft Recovery,4,86
+Auto Theft Recovery,5,78
+Auto Theft Recovery,6,97
+Auto Theft Recovery,7,109
+Auto Theft Recovery,8,109
+Auto Theft Recovery,9,89
+Auto Theft Recovery,10,72
+Auto Theft Recovery,11,75
+Auto Theft Recovery,12,79
+Ballistics,1,65
+Ballistics,2,48
+Ballistics,3,55
+Ballistics,4,62
+Ballistics,5,78
+Ballistics,6,110
+Ballistics,7,137
+Ballistics,8,102
+Ballistics,9,103
+Ballistics,10,80
+Ballistics,11,69
+Ballistics,12,72
+Biological Threat,9,1
+Biological Threat,12,1
+Bomb Hoax,1,6
+Bomb Hoax,2,14
+Bomb Hoax,3,9
+Bomb Hoax,4,7
+Bomb Hoax,5,10
+Bomb Hoax,6,7
+Bomb Hoax,7,3
+Bomb Hoax,8,5
+Bomb Hoax,9,3
+Bomb Hoax,10,3
+Bomb Hoax,11,4
+Bomb Hoax,12,4
+Burglary - No Property Taken,1,1
+Burglary - No Property Taken,12,1
+Commercial Burglary,1,98
+Commercial Burglary,2,72
+Commercial Burglary,3,71
+Commercial Burglary,4,105
+Commercial Burglary,5,115
+Commercial Burglary,6,131
+Commercial Burglary,7,120
+Commercial Burglary,8,139
+Commercial Burglary,9,123
+Commercial Burglary,10,147
+Commercial Burglary,11,115
+Commercial Burglary,12,101
+Confidence Games,1,254
+Confidence Games,2,216
+Confidence Games,3,252
+Confidence Games,4,221
+Confidence Games,5,231
+Confidence Games,6,276
+Confidence Games,7,348
+Confidence Games,8,324
+Confidence Games,9,256
+Confidence Games,10,255
+Confidence Games,11,243
+Confidence Games,12,271
+Counterfeiting,1,92
+Counterfeiting,2,98
+Counterfeiting,3,101
+Counterfeiting,4,97
+Counterfeiting,5,129
+Counterfeiting,6,124
+Counterfeiting,7,177
+Counterfeiting,8,142
+Counterfeiting,9,134
+Counterfeiting,10,125
+Counterfeiting,11,119
+Counterfeiting,12,116
+Criminal Harassment,1,13
+Criminal Harassment,2,4
+Criminal Harassment,3,9
+Criminal Harassment,4,9
+Criminal Harassment,5,13
+Criminal Harassment,6,8
+Criminal Harassment,7,19
+Criminal Harassment,8,10
+Criminal Harassment,9,12
+Criminal Harassment,10,8
+Criminal Harassment,11,14
+Criminal Harassment,12,12
+Disorderly Conduct,1,185
+Disorderly Conduct,2,168
+Disorderly Conduct,3,201
+Disorderly Conduct,4,236
+Disorderly Conduct,5,200
+Disorderly Conduct,6,251
+Disorderly Conduct,7,258
+Disorderly Conduct,8,288
+Disorderly Conduct,9,246
+Disorderly Conduct,10,243
+Disorderly Conduct,11,172
+Disorderly Conduct,12,163
+Drug Violation,1,938
+Drug Violation,2,952
+Drug Violation,3,1146
+Drug Violation,4,921
+Drug Violation,5,981
+Drug Violation,6,1204
+Drug Violation,7,1337
+Drug Violation,8,1271
+Drug Violation,9,986
+Drug Violation,10,1046
+Drug Violation,11,926
+Drug Violation,12,729
+Drug Violation,2015,684
+Drug Violation,2016,1236
+Drug Violation,2017,1303
+Drug Violation,2018,888
+Embezzlement,1,22
+Embezzlement,2,17
+Embezzlement,3,11
+Embezzlement,4,19
+Embezzlement,5,24
+Embezzlement,6,33
+Embezzlement,7,28
+Embezzlement,8,34
+Embezzlement,9,22
+Embezzlement,10,23
+Embezzlement,11,31
+Embezzlement,12,32
+Evading Fare,1,32
+Evading Fare,2,26
+Evading Fare,3,30
+Evading Fare,4,39
+Evading Fare,5,34
+Evading Fare,6,40
+Evading Fare,7,40
+Evading Fare,8,48
+Evading Fare,9,27
+Evading Fare,10,43
+Evading Fare,11,22
+Evading Fare,12,26
+Explosives,1,1
+Explosives,3,2
+Explosives,5,1
+Explosives,6,3
+Explosives,7,12
+Explosives,8,3
+Explosives,9,1
+Explosives,10,3
+Explosives,11,1
+Fire Related Reports,NULL,1794
+Fire Related Reports,1,11
+Fire Related Reports,2,7
+Fire Related Reports,3,9
+Fire Related Reports,4,11
+Fire Related Reports,5,11
+Fire Related Reports,6,9
+Fire Related Reports,7,8
+Fire Related Reports,8,11
+Fire Related Reports,9,17
+Fire Related Reports,10,9
+Fire Related Reports,11,12
+Fire Related Reports,12,11
+Firearm Discovery,1,61
+Firearm Discovery,2,39
+Firearm Discovery,3,41
+Firearm Discovery,4,47
+Firearm Discovery,5,52
+Firearm Discovery,6,46
+Firearm Discovery,7,87
+Firearm Discovery,8,99
+Firearm Discovery,9,74
+Firearm Discovery,10,50
+Firearm Discovery,11,50
+Firearm Discovery,12,52
+Firearm Violations,1,16
+Firearm Violations,2,9
+Firearm Violations,3,19
+Firearm Violations,4,24
+Firearm Violations,5,17
+Firearm Violations,6,26
+Firearm Violations,7,28
+Firearm Violations,8,33
+Firearm Violations,9,17
+Firearm Violations,10,25
+Firearm Violations,11,22
+Firearm Violations,12,19
+Firearm Violations,2015,328
+Firearm Violations,2016,463
+Firearm Violations,2017,411
+Firearm Violations,2018,320
+Fraud,1,413
+Fraud,2,487
+Fraud,3,479
+Fraud,4,483
+Fraud,5,490
+Fraud,6,552
+Fraud,7,611
+Fraud,8,621
+Fraud,9,470
+Fraud,10,414
+Fraud,11,420
+Fraud,12,389
+Gambling,6,1
+Gambling,8,1
+Gambling,9,1
+Gambling,10,1
+Gambling,11,3
+Gambling,12,1
+HOME INVASION,1,4
+HOME INVASION,2,6
+HOME INVASION,3,2
+HOME INVASION,4,13
+HOME INVASION,5,9
+HOME INVASION,6,5
+HOME INVASION,7,4
+HOME INVASION,8,6
+HOME INVASION,9,5
+HOME INVASION,10,7
+HOME INVASION,11,8
+HOME INVASION,12,8
+HUMAN TRAFFICKING,2,1
+HUMAN TRAFFICKING,5,1
+HUMAN TRAFFICKING,7,2
+HUMAN TRAFFICKING,8,1
+HUMAN TRAFFICKING,9,2
+HUMAN TRAFFICKING - INVOLUNTARY SERVITUDE,4,1
+HUMAN TRAFFICKING - INVOLUNTARY SERVITUDE,8,1
+Harassment,1,308
+Harassment,2,257
+Harassment,3,284
+Harassment,4,375
+Harassment,5,371
+Harassment,6,416
+Harassment,7,418
+Harassment,8,415
+Harassment,9,324
+Harassment,10,299
+Harassment,11,283
+Harassment,12,257
+Harbor Related Incidents,1,14
+Harbor Related Incidents,2,20
+Harbor Related Incidents,3,23
+Harbor Related Incidents,4,16
+Harbor Related Incidents,5,11
+Harbor Related Incidents,6,18
+Harbor Related Incidents,7,45
+Harbor Related Incidents,8,31
+Harbor Related Incidents,9,10
+Harbor Related Incidents,10,16
+Harbor Related Incidents,11,2
+Harbor Related Incidents,12,6
+Homicide,2015,27
+Homicide,2016,47
+Homicide,2017,54
+Homicide,2018,33
+INVESTIGATE PERSON,1,1
+INVESTIGATE PERSON,2,1
+INVESTIGATE PERSON,10,2
+Investigate Person,1,1204
+Investigate Person,2,1119
+Investigate Person,3,1326
+Investigate Person,4,1336
+Investigate Person,5,1504
+Investigate Person,6,1674
+Investigate Person,7,1926
+Investigate Person,8,2167
+Investigate Person,9,1727
+Investigate Person,10,1570
+Investigate Person,11,1622
+Investigate Person,12,1575
+Investigate Property,1,772
+Investigate Property,2,755
+Investigate Property,3,866
+Investigate Property,4,827
+Investigate Property,5,959
+Investigate Property,6,1170
+Investigate Property,7,1264
+Investigate Property,8,1113
+Investigate Property,9,903
+Investigate Property,10,893
+Investigate Property,11,816
+Investigate Property,12,786
+Landlord/Tenant Disputes,1,84
+Landlord/Tenant Disputes,2,69
+Landlord/Tenant Disputes,3,57
+Landlord/Tenant Disputes,4,80
+Landlord/Tenant Disputes,5,80
+Landlord/Tenant Disputes,6,89
+Landlord/Tenant Disputes,7,111
+Landlord/Tenant Disputes,8,118
+Landlord/Tenant Disputes,9,89
+Landlord/Tenant Disputes,10,63
+Landlord/Tenant Disputes,11,71
+Landlord/Tenant Disputes,12,57
+Larceny,1,1919
+Larceny,2,1617
+Larceny,3,1723
+Larceny,4,1842
+Larceny,5,1981
+Larceny,6,2522
+Larceny,7,2994
+Larceny,8,2972
+Larceny,9,2187
+Larceny,10,2138
+Larceny,11,1961
+Larceny,12,2079
+Larceny From Motor Vehicle,1,808
+Larceny From Motor Vehicle,2,641
+Larceny From Motor Vehicle,3,697
+Larceny From Motor Vehicle,4,754
+Larceny From Motor Vehicle,5,784
+Larceny From Motor Vehicle,6,1029
+Larceny From Motor Vehicle,7,1269
+Larceny From Motor Vehicle,8,1298
+Larceny From Motor Vehicle,9,904
+Larceny From Motor Vehicle,10,979
+Larceny From Motor Vehicle,11,866
+Larceny From Motor Vehicle,12,818
+License Plate Related Incidents,1,41
+License Plate Related Incidents,2,43
+License Plate Related Incidents,3,53
+License Plate Related Incidents,4,54
+License Plate Related Incidents,5,42
+License Plate Related Incidents,6,52
+License Plate Related Incidents,7,72
+License Plate Related Incidents,8,69
+License Plate Related Incidents,9,47
+License Plate Related Incidents,10,28
+License Plate Related Incidents,11,25
+License Plate Related Incidents,12,34
+License Violation,1,124
+License Violation,2,145
+License Violation,3,205
+License Violation,4,174
+License Violation,5,118
+License Violation,6,143
+License Violation,7,156
+License Violation,8,158
+License Violation,9,113
+License Violation,10,152
+License Violation,11,118
+License Violation,12,95
+Liquor Violation,1,47
+Liquor Violation,2,91
+Liquor Violation,3,76
+Liquor Violation,4,76
+Liquor Violation,5,79
+Liquor Violation,6,108
+Liquor Violation,7,104
+Liquor Violation,8,139
+Liquor Violation,9,97
+Liquor Violation,10,102
+Liquor Violation,11,73
+Liquor Violation,12,60
+Manslaughter,1,2
+Manslaughter,2,2
+Manslaughter,4,1
+Manslaughter,6,1
+Manslaughter,10,1
+Manslaughter,12,1
+Medical Assistance,1,1827
+Medical Assistance,2,1716
+Medical Assistance,3,2001
+Medical Assistance,4,1933
+Medical Assistance,5,2210
+Medical Assistance,6,2253
+Medical Assistance,7,2394
+Medical Assistance,8,2278
+Medical Assistance,9,1820
+Medical Assistance,10,1698
+Medical Assistance,11,1699
+Medical Assistance,12,1711
+Missing Person Located,1,424
+Missing Person Located,2,371
+Missing Person Located,3,366
+Missing Person Located,4,405
+Missing Person Located,5,416
+Missing Person Located,6,500
+Missing Person Located,7,498
+Missing Person Located,8,420
+Missing Person Located,9,382
+Missing Person Located,10,430
+Missing Person Located,11,378
+Missing Person Located,12,368
+Missing Person Reported,1,303
+Missing Person Reported,2,258
+Missing Person Reported,3,246
+Missing Person Reported,4,278
+Missing Person Reported,5,299
+Missing Person Reported,6,383
+Missing Person Reported,7,407
+Missing Person Reported,8,358
+Missing Person Reported,9,319
+Missing Person Reported,10,344
+Missing Person Reported,11,306
+Missing Person Reported,12,296
+Motor Vehicle Accident Response,1,2746
+Motor Vehicle Accident Response,2,2534
+Motor Vehicle Accident Response,3,2909
+Motor Vehicle Accident Response,4,2738
+Motor Vehicle Accident Response,5,3030
+Motor Vehicle Accident Response,6,3535
+Motor Vehicle Accident Response,7,3841
+Motor Vehicle Accident Response,8,3980
+Motor Vehicle Accident Response,9,3043
+Motor Vehicle Accident Response,10,3092
+Motor Vehicle Accident Response,11,2711
+Motor Vehicle Accident Response,12,2973
+Offenses Against Child / Family,1,32
+Offenses Against Child / Family,2,36
+Offenses Against Child / Family,3,44
+Offenses Against Child / Family,4,38
+Offenses Against Child / Family,5,47
+Offenses Against Child / Family,6,60
+Offenses Against Child / Family,7,72
+Offenses Against Child / Family,8,55
+Offenses Against Child / Family,9,43
+Offenses Against Child / Family,10,45
+Offenses Against Child / Family,11,32
+Offenses Against Child / Family,12,41
+Operating Under the Influence,1,36
+Operating Under the Influence,2,38
+Operating Under the Influence,3,58
+Operating Under the Influence,4,51
+Operating Under the Influence,5,45
+Operating Under the Influence,6,51
+Operating Under the Influence,7,42
+Operating Under the Influence,8,52
+Operating Under the Influence,9,56
+Operating Under the Influence,10,52
+Operating Under the Influence,11,40
+Operating Under the Influence,12,53
+Other,1,1467
+Other,2,1318
+Other,3,1461
+Other,4,1346
+Other,5,1468
+Other,6,1678
+Other,7,1902
+Other,8,2010
+Other,9,1534
+Other,10,1440
+Other,11,1279
+Other,12,1172
+Other Burglary,1,28
+Other Burglary,2,14
+Other Burglary,3,32
+Other Burglary,4,36
+Other Burglary,5,45
+Other Burglary,6,43
+Other Burglary,7,54
+Other Burglary,8,62
+Other Burglary,9,49
+Other Burglary,10,24
+Other Burglary,11,33
+Other Burglary,12,41
+Phone Call Complaints,1,6
+Phone Call Complaints,2,6
+Phone Call Complaints,3,3
+Phone Call Complaints,4,2
+Phone Call Complaints,5,3
+Phone Call Complaints,6,2
+Phone Call Complaints,7,1
+Phone Call Complaints,8,1
+Phone Call Complaints,9,2
+Phone Call Complaints,10,2
+Phone Call Complaints,11,3
+Police Service Incidents,1,262
+Police Service Incidents,2,238
+Police Service Incidents,3,248
+Police Service Incidents,4,248
+Police Service Incidents,5,234
+Police Service Incidents,6,318
+Police Service Incidents,7,265
+Police Service Incidents,8,266
+Police Service Incidents,9,173
+Police Service Incidents,10,188
+Police Service Incidents,11,152
+Police Service Incidents,12,189
+Prisoner Related Incidents,1,21
+Prisoner Related Incidents,2,28
+Prisoner Related Incidents,3,21
+Prisoner Related Incidents,4,17
+Prisoner Related Incidents,5,20
+Prisoner Related Incidents,6,18
+Prisoner Related Incidents,7,36
+Prisoner Related Incidents,8,28
+Prisoner Related Incidents,9,14
+Prisoner Related Incidents,10,16
+Prisoner Related Incidents,11,23
+Prisoner Related Incidents,12,11
+Property Found,1,260
+Property Found,2,238
+Property Found,3,316
+Property Found,4,306
+Property Found,5,323
+Property Found,6,365
+Property Found,7,451
+Property Found,8,485
+Property Found,9,300
+Property Found,10,280
+Property Found,11,341
+Property Found,12,260
+Property Lost,1,645
+Property Lost,2,670
+Property Lost,3,756
+Property Lost,4,743
+Property Lost,5,794
+Property Lost,6,1004
+Property Lost,7,1075
+Property Lost,8,1146
+Property Lost,9,794
+Property Lost,10,768
+Property Lost,11,640
+Property Lost,12,716
+Property Related Damage,1,61
+Property Related Damage,2,83
+Property Related Damage,3,107
+Property Related Damage,4,60
+Property Related Damage,5,62
+Property Related Damage,6,69
+Property Related Damage,7,110
+Property Related Damage,8,109
+Property Related Damage,9,76
+Property Related Damage,10,77
+Property Related Damage,11,47
+Property Related Damage,12,51
+Prostitution,1,19
+Prostitution,2,9
+Prostitution,3,4
+Prostitution,4,2
+Prostitution,5,26
+Prostitution,6,12
+Prostitution,7,78
+Prostitution,8,20
+Prostitution,9,19
+Prostitution,10,8
+Prostitution,11,7
+Prostitution,12,3
+Recovered Stolen Property,1,108
+Recovered Stolen Property,2,85
+Recovered Stolen Property,3,83
+Recovered Stolen Property,4,110
+Recovered Stolen Property,5,122
+Recovered Stolen Property,6,119
+Recovered Stolen Property,7,192
+Recovered Stolen Property,8,182
+Recovered Stolen Property,9,116
+Recovered Stolen Property,10,124
+Recovered Stolen Property,11,107
+Recovered Stolen Property,12,107
+Residential Burglary,1,384
+Residential Burglary,2,374
+Residential Burglary,3,377
+Residential Burglary,4,353
+Residential Burglary,5,404
+Residential Burglary,6,583
+Residential Burglary,7,619
+Residential Burglary,8,650
+Residential Burglary,9,514
+Residential Burglary,10,508
+Residential Burglary,11,407
+Residential Burglary,12,433
+Restraining Order Violations,1,130
+Restraining Order Violations,2,88
+Restraining Order Violations,3,125
+Restraining Order Violations,4,109
+Restraining Order Violations,5,106
+Restraining Order Violations,6,126
+Restraining Order Violations,7,172
+Restraining Order Violations,8,209
+Restraining Order Violations,9,173
+Restraining Order Violations,10,107
+Restraining Order Violations,11,136
+Restraining Order Violations,12,126
+Robbery,1,388
+Robbery,2,288
+Robbery,3,310
+Robbery,4,299
+Robbery,5,340
+Robbery,6,385
+Robbery,7,491
+Robbery,8,451
+Robbery,9,413
+Robbery,10,451
+Robbery,11,387
+Robbery,12,421
+Search Warrants,1,91
+Search Warrants,2,66
+Search Warrants,3,94
+Search Warrants,4,79
+Search Warrants,5,46
+Search Warrants,6,92
+Search Warrants,7,83
+Search Warrants,8,87
+Search Warrants,9,95
+Search Warrants,10,79
+Search Warrants,11,76
+Search Warrants,12,78
+Service,1,8
+Service,2,13
+Service,3,11
+Service,4,21
+Service,5,27
+Service,6,32
+Service,7,44
+Service,8,38
+Service,9,30
+Service,10,27
+Service,11,15
+Service,12,19
+Simple Assault,1,1219
+Simple Assault,2,992
+Simple Assault,3,1170
+Simple Assault,4,1291
+Simple Assault,5,1432
+Simple Assault,6,1559
+Simple Assault,7,1708
+Simple Assault,8,1675
+Simple Assault,9,1176
+Simple Assault,10,1241
+Simple Assault,11,1187
+Simple Assault,12,1176
+Towed,1,713
+Towed,2,787
+Towed,3,894
+Towed,4,846
+Towed,5,1012
+Towed,6,1108
+Towed,7,1086
+Towed,8,1347
+Towed,9,938
+Towed,10,899
+Towed,11,814
+Towed,12,843
+Vandalism,1,1155
+Vandalism,2,1059
+Vandalism,3,1088
+Vandalism,4,1221
+Vandalism,5,1244
+Vandalism,6,1479
+Vandalism,7,1649
+Vandalism,8,1795
+Vandalism,9,1210
+Vandalism,10,1272
+Vandalism,11,1144
+Vandalism,12,1099
+Verbal Disputes,1,1098
+Verbal Disputes,2,977
+Verbal Disputes,3,987
+Verbal Disputes,4,1017
+Verbal Disputes,5,1151
+Verbal Disputes,6,1230
+Verbal Disputes,7,1462
+Verbal Disputes,8,1464
+Verbal Disputes,9,998
+Verbal Disputes,10,886
+Verbal Disputes,11,870
+Verbal Disputes,12,959
+Violations,1,411
+Violations,2,483
+Violations,3,526
+Violations,4,444
+Violations,5,466
+Violations,6,522
+Violations,7,680
+Violations,8,649
+Violations,9,548
+Violations,10,487
+Violations,11,460
+Violations,12,419
+Warrant Arrests,1,645
+Warrant Arrests,2,518
+Warrant Arrests,3,613
+Warrant Arrests,4,584
+Warrant Arrests,5,644
+Warrant Arrests,6,789
+Warrant Arrests,7,889
+Warrant Arrests,8,969
+Warrant Arrests,9,777
+Warrant Arrests,10,719
+Warrant Arrests,11,646
+Warrant Arrests,12,614

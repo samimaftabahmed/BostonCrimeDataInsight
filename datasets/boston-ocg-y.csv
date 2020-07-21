@@ -1,0 +1,254 @@
+Aggravated Assault,NULL,1
+Aggravated Assault,2015,1386
+Aggravated Assault,2016,2364
+Aggravated Assault,2017,2404
+Aggravated Assault,2018,1652
+Aircraft,2015,4
+Aircraft,2016,4
+Aircraft,2017,22
+Aircraft,2018,6
+Arson,2015,11
+Arson,2016,34
+Arson,2017,32
+Arson,2018,17
+Assembly or Gathering Violations,2015,240
+Assembly or Gathering Violations,2016,333
+Assembly or Gathering Violations,2017,243
+Assembly or Gathering Violations,2018,139
+Auto Theft,2015,988
+Auto Theft,2016,1537
+Auto Theft,2017,1393
+Auto Theft,2018,933
+Auto Theft Recovery,2015,137
+Auto Theft Recovery,2016,312
+Auto Theft Recovery,2017,371
+Auto Theft Recovery,2018,231
+Ballistics,2015,166
+Ballistics,2016,303
+Ballistics,2017,339
+Ballistics,2018,173
+Biological Threat,2017,2
+Bomb Hoax,2015,17
+Bomb Hoax,2016,38
+Bomb Hoax,2017,11
+Bomb Hoax,2018,9
+Burglary - No Property Taken,2015,1
+Burglary - No Property Taken,2016,1
+Commercial Burglary,2015,253
+Commercial Burglary,2016,431
+Commercial Burglary,2017,432
+Commercial Burglary,2018,221
+Confidence Games,2015,657
+Confidence Games,2016,1078
+Confidence Games,2017,890
+Confidence Games,2018,522
+Counterfeiting,2015,276
+Counterfeiting,2016,494
+Counterfeiting,2017,457
+Counterfeiting,2018,227
+Criminal Harassment,2015,42
+Criminal Harassment,2016,35
+Criminal Harassment,2017,28
+Criminal Harassment,2018,26
+Disorderly Conduct,2015,469
+Disorderly Conduct,2016,825
+Disorderly Conduct,2017,852
+Disorderly Conduct,2018,465
+Drug Violation,NULL,4111
+Drug Violation,2015,2616
+Drug Violation,2016,4048
+Drug Violation,2017,3456
+Drug Violation,2018,2317
+Embezzlement,2015,61
+Embezzlement,2016,84
+Embezzlement,2017,108
+Embezzlement,2018,43
+Evading Fare,2015,79
+Evading Fare,2016,128
+Evading Fare,2017,116
+Evading Fare,2018,84
+Explosives,2015,6
+Explosives,2016,7
+Explosives,2017,7
+Explosives,2018,7
+Fire Related Reports,NULL,1794
+Fire Related Reports,2015,20
+Fire Related Reports,2016,29
+Fire Related Reports,2017,49
+Fire Related Reports,2018,28
+Firearm Discovery,2015,175
+Firearm Discovery,2016,188
+Firearm Discovery,2017,212
+Firearm Discovery,2018,123
+Firearm Violations,NULL,1522
+Firearm Violations,2015,54
+Firearm Violations,2016,89
+Firearm Violations,2017,77
+Firearm Violations,2018,35
+Fraud,2015,994
+Fraud,2016,1814
+Fraud,2017,1733
+Fraud,2018,1288
+Gambling,2015,2
+Gambling,2017,6
+HOME INVASION,2016,29
+HOME INVASION,2017,32
+HOME INVASION,2018,16
+HUMAN TRAFFICKING,2016,2
+HUMAN TRAFFICKING,2017,5
+HUMAN TRAFFICKING - INVOLUNTARY SERVITUDE,2016,1
+HUMAN TRAFFICKING - INVOLUNTARY SERVITUDE,2017,1
+Harassment,2015,358
+Harassment,2016,1365
+Harassment,2017,1475
+Harassment,2018,809
+Harbor Related Incidents,2015,11
+Harbor Related Incidents,2016,54
+Harbor Related Incidents,2017,100
+Harbor Related Incidents,2018,47
+Homicide,NULL,161
+INVESTIGATE PERSON,2015,1
+INVESTIGATE PERSON,2016,2
+INVESTIGATE PERSON,2017,1
+Investigate Person,2015,2511
+Investigate Person,2016,5762
+Investigate Person,2017,6659
+Investigate Person,2018,3818
+Investigate Property,2015,1269
+Investigate Property,2016,3354
+Investigate Property,2017,3972
+Investigate Property,2018,2529
+Landlord/Tenant Disputes,2015,166
+Landlord/Tenant Disputes,2016,295
+Landlord/Tenant Disputes,2017,277
+Landlord/Tenant Disputes,2018,230
+Larceny,2015,5006
+Larceny,2016,7902
+Larceny,2017,7807
+Larceny,2018,5220
+Larceny From Motor Vehicle,2015,2113
+Larceny From Motor Vehicle,2016,3518
+Larceny From Motor Vehicle,2017,3189
+Larceny From Motor Vehicle,2018,2027
+License Plate Related Incidents,2015,89
+License Plate Related Incidents,2016,145
+License Plate Related Incidents,2017,198
+License Plate Related Incidents,2018,128
+License Violation,2015,228
+License Violation,2016,585
+License Violation,2017,501
+License Violation,2018,387
+Liquor Violation,2015,191
+Liquor Violation,2016,278
+Liquor Violation,2017,358
+Liquor Violation,2018,225
+Manslaughter,2016,5
+Manslaughter,2017,3
+Medical Assistance,2015,3139
+Medical Assistance,2016,6978
+Medical Assistance,2017,7817
+Medical Assistance,2018,5606
+Missing Person Located,2015,828
+Missing Person Located,2016,1705
+Missing Person Located,2017,1488
+Missing Person Located,2018,937
+Missing Person Reported,2015,641
+Missing Person Reported,2016,1287
+Missing Person Reported,2017,1170
+Missing Person Reported,2018,699
+Motor Vehicle Accident Response,2015,5827
+Motor Vehicle Accident Response,2016,11534
+Motor Vehicle Accident Response,2017,12049
+Motor Vehicle Accident Response,2018,7722
+Offenses Against Child / Family,2015,119
+Offenses Against Child / Family,2016,164
+Offenses Against Child / Family,2017,161
+Offenses Against Child / Family,2018,101
+Operating Under the Influence,2015,118
+Operating Under the Influence,2016,189
+Operating Under the Influence,2017,166
+Operating Under the Influence,2018,101
+Other,2015,3378
+Other,2016,5538
+Other,2017,5323
+Other,2018,3836
+Other Burglary,2015,112
+Other Burglary,2016,135
+Other Burglary,2017,133
+Other Burglary,2018,81
+Phone Call Complaints,2015,6
+Phone Call Complaints,2016,9
+Phone Call Complaints,2017,4
+Phone Call Complaints,2018,12
+Police Service Incidents,2015,752
+Police Service Incidents,2016,864
+Police Service Incidents,2017,423
+Police Service Incidents,2018,742
+Prisoner Related Incidents,2015,40
+Prisoner Related Incidents,2016,74
+Prisoner Related Incidents,2017,75
+Prisoner Related Incidents,2018,64
+Property Found,2015,640
+Property Found,2016,1102
+Property Found,2017,1301
+Property Found,2018,882
+Property Lost,2015,1525
+Property Lost,2016,2855
+Property Lost,2017,3119
+Property Lost,2018,2252
+Property Related Damage,2015,140
+Property Related Damage,2016,294
+Property Related Damage,2017,287
+Property Related Damage,2018,191
+Prostitution,2015,43
+Prostitution,2016,70
+Prostitution,2017,87
+Prostitution,2018,7
+Recovered Stolen Property,2015,257
+Recovered Stolen Property,2016,433
+Recovered Stolen Property,2017,464
+Recovered Stolen Property,2018,301
+Residential Burglary,2015,1423
+Residential Burglary,2016,1781
+Residential Burglary,2017,1528
+Residential Burglary,2018,874
+Restraining Order Violations,2015,247
+Restraining Order Violations,2016,532
+Restraining Order Violations,2017,522
+Restraining Order Violations,2018,306
+Robbery,2015,948
+Robbery,2016,1506
+Robbery,2017,1376
+Robbery,2018,794
+Search Warrants,2015,166
+Search Warrants,2016,293
+Search Warrants,2017,347
+Search Warrants,2018,160
+Service,2015,59
+Service,2016,82
+Service,2017,88
+Service,2018,56
+Simple Assault,2015,2612
+Simple Assault,2016,4740
+Simple Assault,2017,4896
+Simple Assault,2018,3578
+Towed,2015,1559
+Towed,2016,3223
+Towed,2017,3951
+Towed,2018,2554
+Vandalism,2015,2701
+Vandalism,2016,5063
+Vandalism,2017,4837
+Vandalism,2018,2814
+Verbal Disputes,2015,1509
+Verbal Disputes,2016,4099
+Verbal Disputes,2017,4436
+Verbal Disputes,2018,3055
+Violations,2015,1354
+Violations,2016,1923
+Violations,2017,1614
+Violations,2018,1204
+Warrant Arrests,2015,1319
+Warrant Arrests,2016,2837
+Warrant Arrests,2017,3098
+Warrant Arrests,2018,1153
