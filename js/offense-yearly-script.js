@@ -5,12 +5,9 @@ window.onload = function () {
 
 function loadData() {
 
-    let responseData;
-
     axios.get('datasets/boston-ocg-y.csv')
         .then(function (response) {
             console.log("Success");
-            responseData = response;
             formNewDataArray(response);
         })
         .catch(function (error) {

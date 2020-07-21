@@ -5,12 +5,9 @@ window.onload = function () {
 
 function loadData() {
 
-    let responseData;
-
     axios.get('datasets/boston-ocg-m.csv')
         .then(function (response) {
             console.log("Success");
-            responseData = response;
             formNewDataArray(response);
         })
         .catch(function (error) {
@@ -173,14 +170,14 @@ function segregateData(newMainArr, ocgLabels) {
         crimeDataDec.push(singleArr[11]);
     }
 
-    loadYearlyChart(ocgLabels, crimeDataJan, crimeDataFeb, crimeDataMar, crimeDataApr, crimeDataMay,
+    loadMonthlyChart(ocgLabels, crimeDataJan, crimeDataFeb, crimeDataMar, crimeDataApr, crimeDataMay,
         crimeDataJun, crimeDataJul, crimeDataAug, crimeDataSep, crimeDataOct, crimeDataNov, crimeDataDec);
 }
 
 
-function loadYearlyChart(ocgLabels, crimeDataJan, crimeDataFeb, crimeDataMar, crimeDataApr, crimeDataMay,
-                         crimeDataJun, crimeDataJul, crimeDataAug, crimeDataSep, crimeDataOct,
-                         crimeDataNov, crimeDataDec) {
+function loadMonthlyChart(ocgLabels, crimeDataJan, crimeDataFeb, crimeDataMar, crimeDataApr, crimeDataMay,
+                          crimeDataJun, crimeDataJul, crimeDataAug, crimeDataSep, crimeDataOct,
+                          crimeDataNov, crimeDataDec) {
 
     let myChartCanvas = document.getElementById("myChart");
     let myChartContext = myChartCanvas.getContext('2d')
